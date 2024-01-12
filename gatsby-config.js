@@ -3,6 +3,7 @@
  */
 
 const config = require('./src/config');
+const adapter = require('gatsby-adapter-netlify');
 
 module.exports = {
   siteMetadata: {
@@ -13,6 +14,10 @@ module.exports = {
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@naumanrao112',
   },
+  adapter: adapter({
+    excludeDatastoreFromEngineFunction: false,
+    imageCDN: false,
+  }),
   plugins: [
     `gatsby-plugin-styled-components`,
     `gatsby-plugin-image`,
