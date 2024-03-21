@@ -1,9 +1,9 @@
 ---
 date: '2023-08-01'
-title: 'Junior Front-End Engineer'
+title: 'Intern Front-End Engineer'
 company: 'Web Waggler'
 location: 'Multan, Pakistan'
-range: 'Aug 2023 - Present'
+range: 'Jul 2023 - Oct 2023'
 url: 'https://www.webwaggler.com/'
 ---
 
