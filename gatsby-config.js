@@ -8,8 +8,8 @@ module.exports = {
   siteMetadata: {
     title: 'Nauman Bin Tariq',
     description:
-      'Nauman Bin Tariq is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
-    siteUrl: 'https://naumanrao.github.io/naumanrao/', // No trailing slash allowed!
+      'I am a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+    siteUrl: 'https://naumanrao.netlify.app/', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@naumanrao112',
   },
