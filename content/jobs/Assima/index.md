@@ -3,11 +3,11 @@ date: '2023-10-01'
 title: 'Junior Front-End Engineer'
 company: 'Imporiotech | Assima(Canada)'
 location: 'Remote, UK'
-range: 'Oct 2023 - Present'
+range: 'Oct 2023 - July 2024'
 url: 'https://www.imporiotech.com/'
 ---
 
--The World's #1 systems training platform.
+➡️ The World's #1 systems training platform.
 
 - Added new features into existing system. Maintained system by fixing any existing issues.
 - Started working with ReactJS and worked on fixing bugs and API integration with the frontend of the web applications.

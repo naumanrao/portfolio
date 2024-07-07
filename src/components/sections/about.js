@@ -130,8 +130,8 @@ const About = () => {
     'TypeScript',
     'ReactJS',
     'MaterialUI',
-    'Node.js',
-    'WordPress',
+    'Bootstrap',
+    'Tailwind CSS',
     'NextJS',
   ];
 
@@ -153,8 +153,8 @@ const About = () => {
 
             <p>
               Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://imporiotech.com/">an IT solutions agency</a>,{' '}
-              <a href="https://webwaggler.com/">a start-up</a>, and{' '}
+              <a href="https://hrango.com/">AI integrated HRM Software & Solutions provider</a>,{' '}
+              <a href="https://imporiotech.com/">an IT Solutions provider</a>, and{' '}
               <a href="https://www.fixdar.com/">a maintenance provider corporation</a>. My main
               focus these days is building accessible, inclusive products and digital experiences at
               a huge corporation for a variety of clients.

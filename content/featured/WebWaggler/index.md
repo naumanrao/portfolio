@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Web Waggler'
 cover: './web.png'
 github: 'https://github.com/naumanrao/webwaggler'

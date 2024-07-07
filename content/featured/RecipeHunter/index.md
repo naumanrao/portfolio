@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '4'
 title: 'Hunt a Recipe'
 cover: './foodhunt.png'
 github: 'https://github.com/naumanrao/RecipeHunter'
