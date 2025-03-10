@@ -80,8 +80,8 @@ const Hero = () => {
         I’m a front-end engineer specializing in building (and occasionally designing) exceptional
         digital experiences. Currently, I’m focused on building accessible, human-centered products
         at{' '}
-        <a href="https://upwork.com/" target="_blank" rel="noreferrer">
-          Upwork
+        <a href="https://topedgetechnologies.com/" target="_blank" rel="noreferrer">
+          Top Edge Technologies
         </a>
         .
       </p>

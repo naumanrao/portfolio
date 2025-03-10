@@ -126,12 +126,13 @@ const About = () => {
   }, []);
 
   const skills = [
+    'MVC',
     'JavaScript (ES6+)',
-    'TypeScript',
+    'RESTful Api',
     'ReactJS',
     'MaterialUI',
     'Bootstrap',
-    'Tailwind CSS',
+    'Graphql',
     'NextJS',
   ];
 
@@ -172,7 +173,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.webp"
+              src="../../images/me.jpg"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

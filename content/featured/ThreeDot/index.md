@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '2'
 title: '3dot link'
 cover: './threedot.png'
 github: 'https://github.com/naumanrao/'

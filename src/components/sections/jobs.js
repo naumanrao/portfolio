@@ -70,7 +70,7 @@ const StyledTabButton = styled.button`
   ${({ theme }) => theme.mixins.link};
   display: flex;
   align-items: center;
-  width: 100%;
+  width: auto; /* Change from 100% to auto */
   height: var(--tab-height);
   padding: 0 20px 2px;
   border-left: 2px solid var(--lightest-navy);
@@ -86,18 +86,14 @@ const StyledTabButton = styled.button`
   }
   @media (max-width: 600px) {
     ${({ theme }) => theme.mixins.flexCenter};
-    min-width: 120px;
-    padding: 0 15px;
+    width: auto; /* Allow it to shrink-wrap content */
+    padding: 0 10px;
     border-left: 0;
     border-bottom: 2px solid var(--lightest-navy);
     text-align: center;
   }
-
-  &:hover,
-  &:focus {
-    background-color: var(--light-navy);
-  }
 `;
+
 
 const StyledHighlight = styled.div`
   position: absolute;
@@ -307,4 +303,4 @@ const Jobs = () => {
   );
 };
 
-export default Jobs;
+export default Jobs; 
